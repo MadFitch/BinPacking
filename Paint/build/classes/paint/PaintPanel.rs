@@ -1,2 +1,0 @@
-PaintPanel
-PaintPanel$MouseComp
